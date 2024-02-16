@@ -1,0 +1,39 @@
+    section div {
+        display: none;
+        padding: 2em;
+    }
+    
+     :target {
+        background-color: #35023f;
+        display: block;
+        padding: 1.5em;
+        color: white;
+        font-size: 1.1em;
+    }
+    
+    #link a {
+        text-decoration: none;
+    }
+    
+    .option {
+        width: 7%;
+        padding: 1.1em;
+        border: none;
+        margin: 3px;
+    }
+    
+    li {
+        text-decoration: none;
+    }
+    
+    #time {
+        font-size: 1.1em;
+        text-align: center;
+        color: coral ;
+    }
+    
+    body {
+        background-color: #380235;
+    }
+    
+    
